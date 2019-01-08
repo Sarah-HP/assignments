@@ -1,0 +1,172 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         21
+	Longest value:         7 characters
+	Most common values:    None (1x)
+	                       A000370 (1x)
+	                       B001245 (1x)
+	                       C001051 (1x)
+	                       C001067 (1x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         21
+	Longest value:         29 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (1x)
+	                       HON. ALMA S. ADAMS (1x)
+	                       HON. MADELEINE Z. BORDALLO (1x)
+	                       HON. JOHN R. CARTER (1x)
+	                       HON. YVETTE D. CLARKE (1x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (21x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (20x)
+	                       ADMIN AND OPS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (21x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         18
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-29
+	Most common values:    2017-01-03 (3x)
+	                       2017-01-12 (2x)
+	                       2017-02-17 (1x)
+	                       2017-01-05 (1x)
+	                       2017-02-10 (1x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (21x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         21
+	Longest value:         8 characters
+	Most common values:    E0474083 (1x)
+	                       E0489316 (1x)
+	                       E0469225 (1x)
+	                       E0487145 (1x)
+	                       E0499198 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         26 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (16x)
+	                       GUDURU PRATAP K. (1x)
+	                       COUTURE TRACI L. (1x)
+	                       SHIVELY ALEXANDER (1x)
+	                       FISHER SULKALA MARGARET L. (1x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         18
+	Smallest value:        2016-10-11
+	Largest value:         2017-02-21
+	Most common values:    2016-12-12 (3x)
+	                       2017-01-26 (2x)
+	                       2016-11-27 (1x)
+	                       2017-01-02 (1x)
+	                       2016-10-11 (1x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         17
+	Smallest value:        2016-11-14
+	Largest value:         2017-02-23
+	Most common values:    2017-02-22 (2x)
+	                       2016-12-07 (2x)
+	                       2016-12-13 (2x)
+	                       2017-02-23 (2x)
+	                       2016-12-02 (1x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         5 characters
+	Most common values:    MEALS (21x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         21
+	Smallest value:        502.56
+	Largest value:         4903.91
+	Sum:                   20909.36
+	Mean:                  995.68381
+	Median:                698.96
+	StDev:                 982.010939
+	Most common values:    561 (1x)
+	                       705.57 (1x)
+	                       2346.84 (1x)
+	                       677.67 (1x)
+	                       4903.91 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2016
+	Largest value:         2017
+	Sum:                   42345
+	Mean:                  2016.428571
+	Median:                2016
+	StDev:                 0.507093
+	Most common values:    2016 (12x)
+	                       2017 (9x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         26 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (16x)
+	                       GUDURU PRATAP K. (1x)
+	                       COUTURE TRACI L. (1x)
+	                       SHIVELY ALEXANDER (1x)
+	                       FISHER SULKALA MARGARET L. (1x)
+
+Row count: 21

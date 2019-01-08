@@ -1,0 +1,1 @@
+I have filtered to find expenditures of greater than $500 in the category of Meals. \n This data is from 2017 and has been made available from ProPublica.

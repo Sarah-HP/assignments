@@ -1,0 +1,29 @@
+.
+└── solar_system
+    ├── other
+    │   └── pluto.txt
+    ├── planets
+    │   ├── earth
+    │   │   └── continents
+    │   │       ├── africa.txt
+    │   │       ├── antarctica.txt
+    │   │       ├── asia.txt
+    │   │       ├── australia.txt
+    │   │       ├── europe.txt
+    │   │       ├── north_america
+    │   │       │   └── countries
+    │   │       │       ├── canada.txt
+    │   │       │       ├── mexico.txt
+    │   │       │       └── united_states.txt
+    │   │       └── south_america.txt
+    │   ├── jupiter.txt
+    │   ├── mars.txt
+    │   ├── mercury.txt
+    │   ├── neptune.txt
+    │   ├── saturn.txt
+    │   ├── uranus.txt
+    │   └── venus.txt
+    └── stars
+        └── sun.txt
+
+8 directories, 18 files
