@@ -1,4 +1,3 @@
-# Make a JavaScript fuction that can add, subtract, etc.
 
 function add(a,b) {
 	return a+b
