@@ -4,7 +4,7 @@ with open('name.txt') as f:
 	my_name = f.read()
 
 # Construct greeting (the "\n" just starts a new line)
-greeting = 'Helo myname is ' + my_name + "." + '.\n'
+greeting = 'Helo my name is ' + my_name + "." + '\n'
 print(greeting)
 
 # Write that to a file
