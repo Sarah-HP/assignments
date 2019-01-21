@@ -5,5 +5,5 @@ import sys
 name = sys.stdin.read()
 print("Hello " + name + "!")
 
-# Making some more changes because my last changes didn't work
-### Next try
+# If I run: "chmod +x sayhello.py" the program becomes executable
+# I can then pipe in info. e.g. echo -n "my name" | ./sayhello.py
