@@ -23,12 +23,13 @@ for veggie in vegetables:
 
 with open('vegetables.csv', 'w') as f: # f is just a variable. We could call it anything
     writer = csv.writer(f)
-    writer.writerow(['name', 'color']) # This writes teh first row in the data (the header)
+    writer.writerow(['name', 'color', 'length_of_name']) # This writes teh first row in the data (the header)
     # Write data
 
     # Loop through each vegetable
     for veggie in vegetables:
     	veggiename = veggie['name'] #This accesses the value
     	color = veggie['color']
-    	length_of_name=len(x['name']) # This is the bonus
+    	for letter in veggiename:
+    		length_of_name=len(veggiename) # This is the bonus
     	writer.writerow([veggiename, color, length_of_name]) # Now we are telling python to write a row in our csv
