@@ -1,1 +1,1 @@
-hello.py
+print("Hello, im a python program")
