@@ -5,7 +5,7 @@
 import json
 
 with open('superheroes.json', 'r') as f:
-    squad = json.load(f) # Squad is a dictionary, not a list, so we can't loop through it
+    squad = csv.load(f) 
     
 # To test functionality, take "print(squad)" out of the comments and run powers.py in ubuntu
 
